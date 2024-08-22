@@ -28,7 +28,7 @@ This project aims to enhance the understanding of long COVID’s neurological im
 ## How to Use
 
 1. **Clone the Repository**: Download the repository to your local machine.
-2. **Install Dependencies**: Ensure you have Python and necessary libraries installed as listed in `requirements.txt`.
+2. **Install Dependencies**: Ensure you have Python and necessary libraries installed as listed in `README` from data_processing file.
 3. **Run the Scripts**: Use the provided scripts to preprocess the data, train the models, and evaluate their performance.
 4. **Explore the Results**: Analyze the outputs to understand the performance of each model and the implications for long COVID classification.
 
