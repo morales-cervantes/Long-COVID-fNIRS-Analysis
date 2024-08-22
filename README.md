@@ -28,13 +28,15 @@ This project aims to enhance the understanding of long COVID’s neurological im
 4. **Explore the Results**: Analyze the outputs to understand the performance of each model and the implications for long COVID classification.
 
 ## Data availability statement
-The data set that contains functional near-infrared spectroscopy (fNIRS) data from twenty PD patients and twenty healthy individuals is available via Zenodo: [https://zenodo.org/records/7966830](https://zenodo.org/records/7966830). There are three folders, each corresponding to a different task: twenty trials of a ten-second finger-tapping task, a two-minute walking task, and the task under analysis in this work, six-minute resting state.
+The dataset that contains functional near-infrared spectroscopy (fNIRS) data from seventeen patients, twelve of whom are healthy, is available via GitHub: [https://github.com/morales-cervantes/Long-COVID-fNIRS-Analysis](https://github.com/morales-cervantes/Long-COVID-fNIRS-Analysis). The data is located in the `Long_COVID_fNIRS_Raw_Data` folder and includes preprocessed features extracted from time series data for each patient.
 
-The code to analyze fNIRS signals with machine learning to assist PD diagnosis is available in GitHub: [https://github.com/GabrielSolana29/rs_fNIRS_PD.git](https://github.com/GabrielSolana29/rs_fNIRS_PD.git). This link describes the steps to execute the code.
+The code to analyze fNIRS signals with machine learning to assist in identifying neural correlates of long COVID is available on GitHub: [https://github.com/morales-cervantes/Long-COVID-fNIRS-Analysis](https://github.com/morales-cervantes/Long-COVID-fNIRS-Analysis). The code is located in the `data_processing` folder. This repository contains all necessary scripts for data preprocessing, model training, and evaluation, as well as performance metrics and results.
+
 
 ## Ethics statement
 The studies were conducted on human participants who signed informed consent according to the Declaration of Helsinki (with registration number 77-21) at the Neurology Department of the Central Hospital “Dr. Ignacio Morones Prieto” in Mexico from October 2021 to October 2022.
 
 ## Authors' contributions
-Edgar Guevara contributed to data collection. All authors were involved in statistical analyses, data interpretation, and manuscript. All authors planned and designed the study. All authors read and approved the final manuscripts.
+Edgar Guevara contributed to data collection. All authors were involved in statistical analyses, data interpretation, and planning and designing the study. All authors approved the publication of the data.
+
 
