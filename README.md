@@ -19,11 +19,11 @@ This project aims to enhance the understanding of long COVID’s neurological im
 
 ## Authors
 
-- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)](https://orcid.org/0000-0003-3669-2638) Antony Morales-Cervantes
-- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)](https://orcid.org/0000-0003-1367-8622) Victor Herrera
-- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)](https://orcid.org/0000-0003-0093-7752) Blanca Nohemí Zamora-Mendoza
-- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)](https://orcid.org/0000-0003-2263-6280) Rogelio Flores-Ramírez
-- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg)](https://orcid.org/0000-0002-2313-2810) Edgar Guevara
+- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg | width=16px)](https://orcid.org/0000-0003-3669-2638) Antony Morales-Cervantes
+- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg | width=16px)](https://orcid.org/0000-0003-1367-8622) Victor Herrera
+- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg | width=16px)](https://orcid.org/0000-0003-0093-7752) Blanca Nohemí Zamora-Mendoza
+- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg | width=16px)](https://orcid.org/0000-0003-2263-6280) Rogelio Flores-Ramírez
+- [![ORCID](https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg | width=16px)](https://orcid.org/0000-0002-2313-2810) Edgar Guevara
 
 
 ## How to Use
