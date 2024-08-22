@@ -34,4 +34,4 @@ This project aims to enhance the understanding of long COVID’s neurological im
 
 ## License
 
-This project is licensed under the UASLP License - see the LICENSE file for details.
+This project is licensed under the UASLP License
