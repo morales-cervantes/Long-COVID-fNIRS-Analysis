@@ -19,7 +19,7 @@ This project aims to enhance the understanding of long COVID’s neurological im
 
 ## Authors
 
-- Antony Morales-Cervantes [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0003-3669-2638); Victor Herrera [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0003-1367-8622); Blanca Nohemí Zamora-Mendoza [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0003-0093-7752); Rogelio Flores-Ramírez [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0003-2263-6280); Edgar Guevara [![ORCID](https://orcid.org/assets/vectors/orcid.logo.icon.svg)](https://orcid.org/0000-0002-2313-2810)
+- [Antony Morales-Cervantes](https://orcid.org/0000-0003-3669-2638) ![ORCID](https://img.shields.io/badge/ORCID-0000--0003--3669--2638-green); [Victor Herrera](https://orcid.org/0000-0003-1367-8622) ![ORCID](https://img.shields.io/badge/ORCID-0000--0003--1367--8622-green); [Blanca Nohemí Zamora-Mendoza](https://orcid.org/0000-0003-0093-7752) ![ORCID](https://img.shields.io/badge/ORCID-0000--0003--0093--7752-green); [Rogelio Flores-Ramírez](https://orcid.org/0000-0003-2263-6280) ![ORCID](https://img.shields.io/badge/ORCID-0000--0003--2263--6280-green); [Edgar Guevara](https://orcid.org/0000-0002-2313-2810) ![ORCID](https://img.shields.io/badge/ORCID-0000--0002--2313--2810-green)
 
 
 
