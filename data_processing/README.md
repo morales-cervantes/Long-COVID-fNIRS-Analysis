@@ -16,5 +16,4 @@ This script is used to process individual patient data files from the fNIRS data
 **Next Steps:**
 - After processing individual patient files, the next step is to compile all 17 patients' summarized data into a single file. This consolidated file will serve as the complete dataset for further analysis and model training.
 
-**Location:**
-- The script can be found in the `scripts` folder of this repository.
+
